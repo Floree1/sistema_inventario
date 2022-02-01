@@ -1,0 +1,22 @@
+
+		Nombre del Negocio
+	 Telefono. 98725***** , Suipacha, 771
+===============================================
+ Nombre del Cliente: Mauro Flores
+ Telefono. :123456x
+ Factura N°. 1174680			Date: 01/02/2022
+===============================================
+ Producto			Cantidad	Precio
+===============================================
+        
+ Playstation 5			1	$ 150000.0
+ Lenovo G13			1	$ 124000.0
+ Playstation 4			1	$ 100000.0
+ Samsung S20			1	$ 80000.0
+===============================================
+Total de la factura				$ 454000.0
+Descuento (%5)				$ 22700.0
+Total Neto				$ 431300.0
+===============================================
+        
+        
